@@ -7,7 +7,7 @@ Sou um desenvolvedor com experiência consolidada na criação de soluções efi
 ### 🛠️ Minhas habilidades
 
 - **Linguagens:** [ Javascript, C#, ASP, PHP ]
-- **Frameworks & Tecnologias:** [ jQuery, VueJS, Node.js, Deno.js, .Net (WebForms, MVC), .Net Core ]
+- **Frameworks & Tecnologias:** [ Node.js, Deno.js, .Net (WebForms, MVC), .Net Core, jQuery, VueJS ]
 - **Banco de Dados:** [ SQL, MySQL, MongoDB ]
 - **Outros:** [ Git, API, WebScraping ]
 
