@@ -1,28 +1,21 @@
-Olá, seja bem-vindo ao meu GitHub! 🚀
+# Olá, seja bem-vindo ao meu GitHub! 🚀
 
-Sobre mim
+### Sobre mim
 
 Sou um desenvolvedor com experiência consolidada na criação de soluções eficientes. Acredito que código bom é aquele que funciona – "if it ain't broke, don't fix it". Ao mesmo tempo, sou movido pela curiosidade e pela paixão por novas tecnologias, sempre explorando maneiras inovadoras de melhorar e otimizar processos.
 
-🛠️ Minhas habilidades
+### 🛠️ Minhas habilidades
 
-Linguagens: [ Javascript, C#, ASP, PHP ]
+- **Linguagens:** [ Javascript, C#, ASP, PHP ]
+- **Frameworks & Tecnologias:** [ jQuery, VueJS, Node.js, Deno.js, .Net (WebForms, MVC), .Net Core ]
+- **Banco de Dados:** [ SQL, MySQL, MongoDB ]
+- **Outros:** [ Git, API, WebScraping ]
 
-Frameworks & Tecnologias: [ jQuery, VueJS, Node.js, Deno.js, .Net (WebForms, MVC), .Net Core ]
+### 📌 O que você encontrará por aqui?
 
-Banco de Dados: [ SQL, MySQL, MongoDB ]
+- 🔹 Projetos pessoais e profissionais  
+- 🔹 Soluções bem documentadas e organizadas  
 
-Outros: [ Git, API, WebScraping ]
+### 📫 Contato
 
-📌 O que você encontrará por aqui?
-
-🔹 Projetos pessoais e profissionais
-
-🔹 Soluções bem documentadas e organizadas
-
-
-
-📫 Contato
-
-Se quiser trocar ideias ou colaborar em projetos, você pode me encontrar no LinkedIn ou me enviar um e-mail em seuemail@email.com.
-
+Se quiser trocar ideias ou colaborar em projetos, você pode me encontrar no [LinkedIn](#) ou me enviar um e-mail em [seuemail@email.com](mailto:seuemail@email.com).
