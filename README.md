@@ -1,16 +1,28 @@
-## Hi there 👋
+Olá, seja bem-vindo ao meu GitHub! 🚀
 
-<!--
-**MarceloSouzaFilho/MarceloSouzaFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor com experiência consolidada na criação de soluções eficientes. Acredito que código bom é aquele que funciona – "if it ain't broke, don't fix it". Ao mesmo tempo, sou movido pela curiosidade e pela paixão por novas tecnologias, sempre explorando maneiras inovadoras de melhorar e otimizar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Minhas habilidades
+
+Linguagens: [ Javascript, C#, ASP, PHP ]
+
+Frameworks & Tecnologias: [ jQuery, VueJS, Node.js, Deno.js, .Net (WebForms, MVC), .Net Core ]
+
+Banco de Dados: [ SQL, MySQL, MongoDB ]
+
+Outros: [ Git, API, WebScraping ]
+
+📌 O que você encontrará por aqui?
+
+🔹 Projetos pessoais e profissionais
+
+🔹 Soluções bem documentadas e organizadas
+
+
+
+📫 Contato
+
+Se quiser trocar ideias ou colaborar em projetos, você pode me encontrar no LinkedIn ou me enviar um e-mail em seuemail@email.com.
+
