@@ -18,4 +18,4 @@ Sou um desenvolvedor com experiência consolidada na criação de soluções efi
 
 ### 📫 Contato
 
-Se quiser trocar ideias ou colaborar em projetos, você pode me encontrar no [LinkedIn](#) ou me enviar um e-mail em [seuemail@email.com](mailto:seuemail@email.com).
+Da seus pulo
